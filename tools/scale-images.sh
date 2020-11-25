@@ -4,6 +4,11 @@
 
 cd $(dirname ${0})/../assets/img
 
+if ! (ls -sh | grep -q "M ") ; then
+    echo "no images to scale" ;
+    exit 0
+fi
+
 # Create a directory to store the originals
 TMP_DIR=$(mktemp -d)
 echo "Storing original images in ${TMP_DIR}"
