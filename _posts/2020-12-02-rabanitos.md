@@ -1,7 +1,7 @@
 ---
 layout: post
 title: El avance de los rabanitos
-tags: huerta, experimento, rabanitos
+tags: huerta experimento rabanitos
 ---
 
 Hace 20 días hice un almácigo de rabanitos, ají y chaucha amarilla. Los rabanitos fueron los que mejor salieron, lo cual no fue sorpresa. Para los 10 días tenía muchos ya listos para transplantar. Dado que es una planta rápida, resistente y que se puede sembrar casi todo el año, decidí usarlo como sujeto de experimento. La primer pregunta: ¿vale la pena transplantar? Después de todo, todas las guías que encontré sugieren sembrar rabanito en directo.
